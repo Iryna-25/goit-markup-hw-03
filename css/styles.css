@@ -198,8 +198,7 @@ footer {
     width: 1170px;
     height: 101px;
     flex-wrap: wrap;
-    padding-left: 215px;
-    padding-right: 215px;
+
     align-items: center;
     justify-content: space-between;
 }
