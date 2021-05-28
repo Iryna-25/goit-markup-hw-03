@@ -196,7 +196,7 @@ footer {
     margin: 0px;
 }
 
-.studio-list-container {
+.studio-list .container {
     display: flex;
     width: 1170px;
     height: 101px;
@@ -253,7 +253,7 @@ footer {
     text-align: center;
 }
 
-.our-activity-container {
+.section-our-activity .container {
     display: flex;
     justify-content: center;
 }
@@ -275,7 +275,7 @@ footer {
     background-color: var(--background-buttons-color); 
 }
 
-.our-team-container {
+.sectuion-our-team .container {
     display: flex;
     justify-content: center;
 }
