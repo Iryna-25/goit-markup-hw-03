@@ -159,7 +159,6 @@ ul {
 .decides-order {
     background-color: var(--footer-bg-color);
     text-align: center;
-    padding: 200px 0px;
 }
 
 .effective-decides {
@@ -169,7 +168,6 @@ ul {
     color: var(--main-text-white-color);
     font-weight: 900;
     text-align: center;
-    padding: 200px 223px 0px 224px;
 }
 
 .button-order {
