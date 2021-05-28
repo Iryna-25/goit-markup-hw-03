@@ -89,11 +89,6 @@ a {
 }
 
 .contacts-footer-mail, .contacts-footer-tel {
-   font-family: inherit;
-   font-style: medium;
-   font-weight: inherit;
-   font-size: inherit;
-   line-height: inherit;
    color: var(--contacts-footer-color); 
    line-height: 1.7;
 }
@@ -116,7 +111,6 @@ button:hover, button:focus {
 }
 
 .contacts-header-mail, .contacts-header-tel {
-    font-family: inherit;
     font-size: 14px;
     color: var(--main-text-color);    
     font-weight: 500;
@@ -146,13 +140,9 @@ ul {
     padding: 0;
 }
 
-footer {
+.footer {
     font-family: inherit;
     background-color: var(--footer-bg-color);
-}
-
-.footer {
-    padding-left: 215px;
 }
 
 .address {
@@ -241,7 +231,6 @@ footer {
 }
 
 .our-activity, .our-team {
-    font-family: inherit;
     font-size: 36px;
     line-height: 1.2;
     font-weight: 700;
@@ -320,7 +309,6 @@ footer {
     line-height: 1.6;
     font-weight: 500;
     color: var(--main-title-color);
-    padding: 6px 22px 6p 22px;
 }
 
 .portfolio-buttons-li {
