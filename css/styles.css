@@ -28,6 +28,7 @@ body, footer {
     font-size: 26px;
     line-height: 1.2;
     color: var(--hover-focus-color); 
+    margin: 0px;
 }
 
 .webstudio-logo-header {
@@ -58,8 +59,8 @@ body, footer {
 
 .container {
     width: 1200px;
-    padding: 0px, 15px;
-    margin: 0px, auto;
+    padding: 0px 15px;
+    margin: 0px auto;
 }
 
 .header .container {
@@ -181,10 +182,6 @@ footer {
     padding: 200px 223px 0px 224px;
 }
 
-.buisness {
-    line-height: 0;
-}
-
 .button-order {
     font-size: 16px;
     line-height: 1.9;
@@ -298,7 +295,6 @@ footer {
 }
 
 .our-team-employee {
-    font-family: inherit;
     font-size: 16px;
     line-height: 1.2;
     font-weight: 500;
@@ -306,7 +302,6 @@ footer {
 }
 
 .our-team-position {
-    font-family: inherit;
     font-size: 16px;
     line-height: 1.2;
     font-weight: 400;
