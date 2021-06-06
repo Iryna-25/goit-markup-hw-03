@@ -169,7 +169,6 @@ a {
     background-color: var(--footer-bg-color);
     padding-top: 60px;
     padding-bottom: 60px;
-
 }
 
 .address {
@@ -285,7 +284,9 @@ a {
 }
 
 .section-our-team {
-    background-color: var(--background-buttons-color); 
+    background-color: var(--background-buttons-color);
+    padding-top: 94px;
+    padding-bottom: 94px;  
 }
 
 .our-team {
