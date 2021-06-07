@@ -203,7 +203,7 @@ a {
     text-align: center;
     width: 696px;
     margin: 0px auto;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .button-order {
@@ -291,7 +291,7 @@ a {
 }
 
 .our-team {
-    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 .our-team-li {
@@ -445,6 +445,6 @@ image {
 }
 
 .portfolio-button {
-    margin-top: 94px;
-    margin-bottom: 94px;
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
